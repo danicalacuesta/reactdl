@@ -2,3 +2,16 @@ I would like for you to go through and write comments throughout
 this whole project to verify that you know what is going on. 
 write console.log() wheveever you need to so youcan have solid documentation. 
 Afterwards when you are free ask me about SCSS.
+this is me adding stuff
+this is me adding stuff
+this is me adding stuff
+this is me adding stuff
+this is me adding stuffthis is me adding stuff
+this is me adding stuffthis is me adding stuffthis is me adding stuff
+this is me adding stuff
+this is me adding stuff
+this is me adding stuff
+this is me adding stuff
+this is me adding stuff
+this is me adding stuff
+this is me adding stuff
