@@ -1,4 +1,5 @@
 import React, { useState,useEffect } from "react"; 
+//what useState does is it imports something specific from the react library
 import "./App.css";
 //Importing Components
 import Form from "./component/Form";
@@ -7,6 +8,8 @@ import TodoList from "./component/TodoList";
 function App(){
   //state stuff
   const [inputText, setInputText]= useState("");
+  //inputText is actual value while the setInputText function that allows us to change the value/inputtext
+  //store todos, create and array to store objects
   const [todos, setTodos]= useState([]);
   const [status, setStatus ] = useState("all");
   const [filteredTodos, setFilteredTodos] = useState([]);
