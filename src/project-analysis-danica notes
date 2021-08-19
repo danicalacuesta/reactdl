@@ -1,0 +1,28 @@
+What I understand about the project:
+-App.css attributes to the styling in the REACT Applications
+-the concept of e.target.value
+    - In the event, it is meant to get exactly what you inputed in the input box 
+- Elements needed for list portion: make sure it does not refresh everytime you add tast, 
+each task has a random number(to distinguish it)and is false, after you press enter the state goes 
+back to zero 
+- what each javascript tab is meant for 
+    -Form.js:where you input your task & where you can find the drop down of which tasks are 
+    completed and not completed and all
+    -TodoList.js:renders out text with console.log 
+    -Todo.js: where you can delete and complete todos
+    -App.js: where alot of the states are, these states aadd functionality to the todos the user implements to 
+    REACT 
+        -also filters out todos, so all todos have a status and can be seen
+What I do not understand about the project:
+-fas fa-plus-square <-- whatever this thing is 
+    - I think it creates a visual for the person to see (not sure tho)
+        - this creates a square 
+- the concept of JSON and why is it implemented in the saveLocaltodos declaration
+-the way certain segments of code are grouped and ordered 
+    -I get it, but also don't (it just takes me a while to make it all connect in my brain)
+What I think can be improved:
+-avoid always looking at a referense sheet for the terminal
+    - this will save time
+- be more organize with my extra comments
+    -I tend to forget if a comment relates to the line above or below, so I should definately fix that to avoid 
+    confusion
